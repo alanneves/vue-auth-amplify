@@ -1,7 +1,7 @@
 # 🐒 Vue 3 + Amplify Auth Backend
 
 ![Vite, Vue, Tailwind CSS](https://miro.medium.com/max/1400/1*8IWuzPLE7Yv2mOmtucn1WQ.jpeg)
-
+![](https://raw.githubusercontent.com/alanneves/vue-auth-amplify/master/assets/login.png)
 ## This project is a proof of concept of using simple Cognito authentication in amplify + VueJS.
 It took 15 minutes to make the login, sign up, reset the password, and email verification token.
 

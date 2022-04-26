@@ -1,26 +1,18 @@
-# 👨‍🚀 Vue 3 + Typescript + Vite + Tailwind CSS ✔
+# 🐒 Vue 3 + Amplify Auth Backend
 
-![Vite, Vue, Tailwind CSS](https://user-images.githubusercontent.com/11320080/111277027-a9384c00-8640-11eb-8323-21889bd7c609.png)
+![Vite, Vue, Tailwind CSS](https://miro.medium.com/max/1400/1*8IWuzPLE7Yv2mOmtucn1WQ.jpeg)
 
-This starter template includes:
-
-- [Vue 3](https://vuejs.org/guide/introduction.html)
-- [Typescript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/guide/)
-- [Vue Router v4](https://github.com/vuejs/router)
-- [Vuex v4](https://vuex.vuejs.org/)
-- [ESlint](https://eslint.org/)
-- [Cypress](https://docs.cypress.io/)
-- [Tailwind CSS v3](https://tailwindcss.com/docs/configuration)
-
+## This project is a proof of concept of using simple Cognito authentication in amplify + VueJS.
+## It took 15 minutes to make the login, sign up, reset the password, and email verification token.
 ### Getting Started
 
 ```sh
-git clone https://github.com/alanneves/vue3-typescript-vite-tailwind-starter.git
-cd vue3-typescript-vite-tailwind-starter
-```
+git clone https://github.com/alanneves/vue-auth-amplify.git
+cd vue-auth-amplify
 
-```sh
+amplify init
+amplify push
+
 npm i
 npm run dev
 ```

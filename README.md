@@ -6,6 +6,7 @@
 <p align="center" width="100%">
     <img width="50%" src="https://raw.githubusercontent.com/alanneves/vue-auth-amplify/master/assets/login.png">
 </p>
+
 ## This project is a proof of concept of using simple Cognito authentication in amplify + VueJS.
 It took 15 minutes to make the login, sign up, reset the password, and email verification token.
 
